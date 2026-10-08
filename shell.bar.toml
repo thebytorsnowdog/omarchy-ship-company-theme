@@ -1,0 +1,8 @@
+# Darker than the desktop so the bar reads as a frame, not more wallpaper.
+background = "#221b13"
+background-alpha = 1.0
+text = "#faf6ec"
+active = "#e07a62"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
